@@ -1,0 +1,8 @@
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\obj\Debug\NunitandXunit.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\obj\Debug\NunitandXunit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\obj\Debug\NunitandXunit.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\bin\Debug\NunitandXunit.exe.config
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\bin\Debug\NunitandXunit.exe
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\bin\Debug\NunitandXunit.pdb
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\obj\Debug\NunitandXunit.exe
+C:\Users\ANI\source\repos\NunitandXunit\NunitandXunit\obj\Debug\NunitandXunit.pdb
